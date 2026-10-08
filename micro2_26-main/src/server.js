@@ -18,7 +18,7 @@ app.get('/alunos', async (req, res) =>{
     }
     catch(error){
         res.status(500).json({
-            mensagem: 'Deu erro porra!!!',
+            mensagem: 'Deu erro',
             erro: error.message
         })
     }

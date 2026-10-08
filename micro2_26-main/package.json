@@ -1,7 +1,8 @@
+
 {
-  "name": "micro2_26",
+  "name": "dma",
   "version": "1.0.0",
-  "description": "Repositório para acompanhamento das aulas de microsserviços piaget ADS 5sem26",
+  "description": "Projeto acadêmico de microsserviços - ADS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afonso-Lagedo/micro2_26.git"
+    "url": "git+https://github.com/Avena-Filipe/DMA.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Afonso-Lagedo/micro2_26/issues"
+    "url": "https://github.com/Avena-Filipe/DMA/issues"
   },
-  "homepage": "https://github.com/Afonso-Lagedo/micro2_26#readme",
+  "homepage": "https://github.com/Avena-Filipe/DMA#readme",
   "dependencies": {
     "express": "^5.2.1",
     "mongoose": "^9.10.0"
